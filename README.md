@@ -1,5 +1,5 @@
 # NQueen
-Solving the classic N-Queens optimization problem using GA.
+The N-queens problem is a classic combinatorial optimization problem that involves placing n queens on an n × n chessboard so that no two queens attack each other. Two queens are said to attack each other if they share the same row, column, or diagonal. The problem has been studied for centuries and is considered to be a benchmark for testing new optimization algorithms.
 Algorithm
 The genetic algorithm implemented in this project uses the following steps:
   1:  Generate an initial population of chromosomes. A chromosome is a representation of a solution to the N-queens problem. In this case, a chromosome is a list of n integers, where each integer represents the row on which a queen is placed.
